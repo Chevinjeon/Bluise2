@@ -2,9 +2,11 @@ import * as THREE from "three"
 
 import Sizes from "./Utils/Sizes.js"
 import Time from "./Utils/Time.js"
-
+import Resources from "./Utils/Resources.js";
+import assets from "./Utils/assets.js"
 import Camera from "./Camera.js"
 import Renderer from "./Renderer.js"
+
 
 import World from "./World/World.js"
 
